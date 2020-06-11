@@ -15,7 +15,7 @@ role: Master Student of Operations Research
 # Organizations/Affiliations
 organizations:
 - name: Shanghai University of Finance and Economics
-  url: "http://www.shufe.edu.cn/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Optimization Theory and Algorithm, Robust Optimization and Revenue Management.
