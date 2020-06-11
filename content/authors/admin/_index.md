@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chenyu Xue（薛晨予）
+title: Chenyu Xue
 
 # Username (this should match the folder name)
 authors:
@@ -12,15 +12,13 @@ superuser: true
 # Role/position
 role: Master Student of Operations Research
 
-Professor of Artificial Intelligence
-
 # Organizations/Affiliations
 organizations:
 - name: Shanghai University of Finance and Economics
   url: "http://www.shufe.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Optimization Theory and Algorithm, Robust Optimization and Revenue Management.
 
 interests:
 - Optimization Theory and Algorithm
@@ -66,6 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a master student of Operations Research in Shanghai University of Finance and Economics. This month, I will graduate from ChongQing University, with a B.Eng. Degree.
