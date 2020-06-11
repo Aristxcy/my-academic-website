@@ -28,8 +28,8 @@ interests:
 education:
   courses:
     - course: B.Eng. in Safety Engineering
-    institution: ChongQing University
-    year: 2020
+    - institution: ChongQing University
+    - year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
